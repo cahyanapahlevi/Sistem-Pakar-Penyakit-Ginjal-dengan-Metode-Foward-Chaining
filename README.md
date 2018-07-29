@@ -1,0 +1,1 @@
+# Sistem-Pakar-Penyakit-Ginjal-dengan-Metode-Foward-Chaining
